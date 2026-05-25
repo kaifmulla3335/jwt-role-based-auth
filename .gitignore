@@ -1,0 +1,12 @@
+# ─── Backend ───────────────────────────
+authdemo/target/
+authdemo/.idea/
+authdemo/*.iml
+
+# ─── Frontend ──────────────────────────
+auth-frontend/node_modules/
+auth-frontend/dist/
+
+# ─── System ────────────────────────────
+.DS_Store
+Thumbs.db
